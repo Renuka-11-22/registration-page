@@ -1,0 +1,5 @@
+{
+  "name": "Secure Auth Hub",
+  "description": "A comprehensive user authentication system featuring registration, hashed password security, and a secure dashboard, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
